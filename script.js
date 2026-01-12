@@ -3,6 +3,8 @@ document.getElementById("btnClick").addEventListener("click", function () {
 });
 
 //Este es otro metodo para hacer
+//Este codigo tambien tiene codigo takeit
+//puño de hierro
 document
   .getElementById("contactForm")
   .addEventListener("submit", function (event) {
